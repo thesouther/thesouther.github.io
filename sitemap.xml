@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2017/12/09/tets/</loc>
+    
+    <lastmod>2020-07-13T11:45:04.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/07/12/about/</loc>
+    
+    <lastmod>2020-07-13T11:43:46.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/series/index.html</loc>
+    
+    <lastmod>2020-07-13T11:42:39.187Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-07-13T11:42:15.257Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/archives/index.html</loc>
+    
+    <lastmod>2020-07-13T11:41:57.216Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/404.html</loc>
+    
+    <lastmod>2020-07-13T11:34:44.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/07/13/hello-world/</loc>
+    
+    <lastmod>2020-07-13T11:19:53.510Z</lastmod>
+    
+  </url>
+  
+</urlset>
