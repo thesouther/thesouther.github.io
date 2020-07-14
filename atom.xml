@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-14T02:55:07.474Z</updated>
+  <updated>2020-07-14T02:55:06.897Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2020/07/14/test/"/>
-    <id>http://yoursite.com/2020/07/14/test/</id>
-    <published>2020-07-13T17:19:29.000Z</published>
-    <updated>2020-07-14T02:55:07.474Z</updated>
-    
-    <content type="html"><![CDATA[<p>sdfadf</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;sdfadf&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="sss" scheme="http://yoursite.com/tags/sss/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
