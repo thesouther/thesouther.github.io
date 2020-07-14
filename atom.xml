@@ -59,12 +59,12 @@
   
   <entry>
     <title>TensorFlow入门(一) - mnist手写数字识别(网络搭建)</title>
-    <link href="http://yoursite.com/2017/12/09/tets/"/>
-    <id>http://yoursite.com/2017/12/09/tets/</id>
-    <published>2017-12-09T03:51:24.000Z</published>
-    <updated>2020-07-14T02:55:08.011Z</updated>
+    <link href="http://yoursite.com/2020/07/09/tets/"/>
+    <id>http://yoursite.com/2020/07/09/tets/</id>
+    <published>2020-07-09T03:51:24.000Z</published>
+    <updated>2020-07-14T03:16:31.406Z</updated>
     
-    <content type="html"><![CDATA[<p>这篇文章是整个 TensorFlow入门-mnist手写数字识别系列的第一篇，主要介绍了如何从0开始用tensorflow搭建最简单的网络进行训练。</p><p>··· 省略</p>]]></content>
+    <content type="html"><![CDATA[<p>这篇文章是整个 TensorFlow入门-mnist手写数字识别系列的第一篇，主要介绍了如何从0开始用tensorflow搭建最简单的网络进行训练。<br><img src="img/2020-07-14-11-13-54.png"><br><img src="https://raw.githubusercontent.com/thesouther/note_images/master/images/20200714111626.png" alt="20200714111626"><br>··· 省略</p>]]></content>
     
     <summary type="html">
     
