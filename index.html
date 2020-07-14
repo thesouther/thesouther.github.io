@@ -59,21 +59,6 @@
   </script>
   <!-- google ad -->
   
-  <script>
-    window.addEventListener('load', function () {
-      globalAddScript("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", "", function (e) {
-        if (window.localStorage.getItem('gkt_marker')) {
-          var rec = document.querySelector('.gkt-rec-links');
-          rec && (rec.style.display = 'none');
-        }
-      });
-    });
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-1569170248977807",
-      enable_page_level_ads: true
-    });
-  </script>
-  
 </head>
 
 <body>
@@ -526,8 +511,6 @@
     </p>
     
     
-    <p><small><span id="cnzz_stat_icon_1279075006"></span></small></p>
-    
 
 </footer>
 
@@ -540,45 +523,8 @@
 
 <!-- Baidu Tongji -->
 
-<script>
-    window.addEventListener('load', function () {
-        var _hmt = _hmt || [];
-        globalAddScript('//hm.baidu.com/hm.js?cd22f1e2e635ec82cf9a6cb8509892b6')
-    })
-</script>
 
 
-<script>
-    window.addEventListener('load', function () {
-        globalAddScript('//s23.cnzz.com/z_stat.php?id=1279075006&online=2');
-    })
-</script>
-
-
-<!-- baidu auto push for seo -->
-<script>
-    window.addEventListener('load', function () {
-        var src = 'http://push.zhanzhang.baidu.com/push.js'
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            src = 'https://zz.bdstatic.com/linksubmit/push.js';
-        }
-        globalAddScript(src);
-    })
-</script>
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'UA-172539939-1');
-
-    window.addEventListener('load', function () {
-        globalAddScript('https://www.googletagmanager.com/gtag/js?id=UA-172539939-1');
-    });
-</script>
 
 
     <script>
