@@ -1,0 +1,77 @@
+{
+  "title": "title",
+  "author": "cicoa",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "-sharing",
+    "-disqus",
+    "github-buttons",
+    "editlink",
+    "ga",
+    "-highlight",
+    "prism",
+    "bibtex-indexed-cite",
+    "anchor-navigation-ex",
+    "page-footer-ex",
+    "splitter",
+    "todo",
+    "copy-code-button",
+    "-expandable-chapters",
+    "chapter-fold",
+    "donate"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": ["Gitbook Use"]
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "thesouther",
+        "repo": "myNotes",
+        "type": "star",
+        "size": "small",
+        "count": true
+      }]
+    },
+    "editlink": {
+      "base": "https://github.com/thesouther/myNotes/blob/master",
+      "label": "Edit",
+      "multilingual": false
+    },
+    "ga": {
+      "token": "UA-131910384-3"
+    },
+    "prism": {
+      "ignore": [
+        "mermaid",
+        "eval-js"
+      ],
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ]
+    },
+    "page-footer-ex": {
+      "copyright": "create By [cicoa](https://github.com/thesouther)",
+      "markdown": true,
+      "update_label": "此页面修订于：",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "bibtex-indexed-cite": {
+      "path": "/"
+    },
+    "donate": {
+      "wechat": "https://gitee.com/cicoa/picgo/raw/master/img/image-20200716233015691.png",
+      "alipay": "https://gitee.com/cicoa/picgo/raw/master/img/image-20200716232207049.png",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    }
+  }
+}
